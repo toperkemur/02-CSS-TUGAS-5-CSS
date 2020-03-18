@@ -1,0 +1,28 @@
+.div_menu, td{
+  border: none;
+}
+
+.div_menu{
+  background-color: black;
+  margin-bottom: 5px;
+}
+
+.div_menu td a {
+  color: white;
+  text-transform: uppercase;
+}
+
+.slider-div{
+  text-align: center;
+}
+
+p{
+  text-align: justify;
+  font-size: 12px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
